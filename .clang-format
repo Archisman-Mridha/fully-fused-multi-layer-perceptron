@@ -1,0 +1,10 @@
+{
+  BasedOnStyle: Google,
+
+  ColumnLimit: 100,
+  ReflowComments: false,
+  IndentWidth: 2,
+
+  AlignConsecutiveDeclarations: Consecutive,
+  AlignConsecutiveAssignments: Consecutive,
+}
